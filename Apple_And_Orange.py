@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/apple-and-orange
+#https://www.hackerrank.com/challenges/apple-and-orange/
 
 s,t = raw_input().strip().split(' ')
 s,t = [int(s),int(t)]
