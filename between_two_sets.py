@@ -1,5 +1,5 @@
-#https://www.hackerrank.com/challenges/between-two-sets?h_r=internal-search
-
+#Between Two Sets
+#https://www.hackerrank.com/challenges/between-two-sets/problem
 def getX(a,b):
 	res=0
 	for i in range(max(a), min(b) +1):
