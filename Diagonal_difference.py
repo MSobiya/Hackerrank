@@ -1,5 +1,6 @@
 #Digonal Differnce
 #https://www.hackerrank.com/challenges/diagonal-difference
+
 def Diagonal_Diff(a):
 	sum1=0
 	sum2=0
