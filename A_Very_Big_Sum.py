@@ -1,5 +1,5 @@
-#Link for question
-#https://www.hackerrank.com/challenges/a-very-big-sum
+#Link of question
+#https://www.hackerrank.com/challenges/a-very-big-sum/
 def aVeryBigSum(ar):
     result=0
     for i in ar:
