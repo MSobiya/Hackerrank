@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/insertionsort1?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign
+#https://www.hackerrank.com/challenges/insertionsort1/problem
 def insertionSort(a,m):    
     x=a[m-1]
     flag=0
