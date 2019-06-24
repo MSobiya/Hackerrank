@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/mini-max-sum?h_r=next-challenge&h_v=zen
+#https://www.hackerrank.com/challenges/mini-max-sum/problem
 def maxMinSum(a):
 	x=sum(a)
 	print (x-max(a)),(x-min(a))
