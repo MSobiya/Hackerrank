@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/ctci-ransom-note/problem
 from collections import Counter
 
 def ransom_note(m, s):
