@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/fibonacci-modified
+#https://www.hackerrank.com/challenges/fibonacci-modified/problem
 def modifiedFibo(a):
 	t1=a[0]
 	t2=a[1]
