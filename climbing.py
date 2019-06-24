@@ -1,8 +1,7 @@
-#https://www.hackerrank.com/challenges/climbing-the-leaderboard
+#https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 #!/bin/python
 
 import sys
-
 
 n = int(raw_input().strip())
 score = map(int,raw_input().strip().split(' '))
