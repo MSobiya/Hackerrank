@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/time-conversion?h_r=next-challenge&h_v=zen
+#https://www.hackerrank.com/challenges/time-conversion/problem
 from time import strptime, strftime
 print strftime("%H:%M:%S", strptime(raw_input(), "%I:%M:%S%p"))
 #Output
