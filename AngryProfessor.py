@@ -7,7 +7,6 @@ import random
 import re
 import sys
 
-# Complete the angryProfessor function below.
 def angryProfessor(k, a):
     for i in range(len(a)):
         if k > 0:
