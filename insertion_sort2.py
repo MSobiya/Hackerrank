@@ -1,5 +1,4 @@
-#link:
-#https://www.hackerrank.com/challenges/insertionsort2?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign
+#https://www.hackerrank.com/challenges/insertionsort2/problem
 
 def insertionSort(a):
     for i in range(1,len(a)):
