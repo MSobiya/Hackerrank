@@ -1,5 +1,5 @@
 #!/bin/python
-#https://www.hackerrank.com/contests/codeagon/challenges/ugly-or-beautiful/submissions/code/1303034410
+#https://www.hackerrank.com/contests/codeagon/challenges/ugly-or-beautiful/submissions/code/1303034410/
 import sys
 def betweeen_n(a,b):
     for i in a:
