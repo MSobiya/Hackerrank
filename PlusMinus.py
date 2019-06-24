@@ -1,4 +1,4 @@
-
+#https://www.hackerrank.com/challenges/plus-minus/problem
 n = int(raw_input().strip())
 arr = map(int,raw_input().strip().split(' '))
 neg=0.0
