@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/birthday-cake-candles?h_r=next-challenge&h_v=zen
+#https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 def birthdayCakeCandles(n, a):
 	m=max(a)
 	return a.count(m)
